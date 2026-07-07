@@ -26,7 +26,7 @@ https://github.com/DietrichGebert/ponytail
 >
 > **After**: `<input type="date">`
 
-## 내비게이션
+<!-- nav-backlinks -->
 
-- <u>[코딩에이전트 개발방법론](./index.md)</u>
-- <u>[지식 베이스 홈](../index.md)</u>
+---
+↑ [이 섹션 목차](./index.md) · [지식 베이스 홈](../index.md)
